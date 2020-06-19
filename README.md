@@ -1,2 +1,4 @@
 # hello-world
-This is my 1st repository 
+My name is Ayush
+I'm a civil engineering student
+
